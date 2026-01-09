@@ -1,0 +1,19 @@
+# === Gradle ===
+.gradle/
+build/
+# keep Gradle wrapper (must be committed)
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradlew
+!gradlew.bat
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+out/
+
+# === OS ===
+.DS_Store
+
+# === Optional: VS Code ===
+.vscode/
